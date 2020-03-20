@@ -9,7 +9,7 @@ arg1 =int(input("Entervyour first number"))
 arg2 =int(input("Enter your second number"))
 total =add(arg1,arg2)
 print(total)
-
+# Age
 def add(Currentyr ,Baseyr ):
     return Currentyr-Baseyr
 arg1=int(input("Enter your year of birth"))
